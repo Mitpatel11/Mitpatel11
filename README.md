@@ -53,7 +53,7 @@ Infrastructure as Code provisioning on AWS, containerized deployment, CI/CD via 
 
 ### 📄 Resume
 
-[📄 View my Resume](./resume.pdf)
+[📄 View my Resume]([resume.pdf](https://github.com/user-attachments/files/31246881/resume.pdf))
 
 ---
 
@@ -67,4 +67,4 @@ Infrastructure as Code provisioning on AWS, containerized deployment, CI/CD via 
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
-[resume.pdf](https://github.com/user-attachments/files/31246881/resume.pdf)
+
