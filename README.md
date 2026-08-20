@@ -43,10 +43,10 @@
 **[Toolshop SDET Automation Framework](https://github.com/Mitpatel11/toolshop-sdet-framework)**
 Playwright + TypeScript framework against a live e-commerce app — UI, API (Zod validation), MySQL checks, data-driven testing, BDD, and k6 performance testing, wired into CI/CD with Allure reporting. Built incrementally, in public, week by week.
 
-**Selenium E-Commerce Automation Framework** — Java, Selenium WebDriver, TestNG, Jenkins
+**Selenium E-Commerce Automation Framework(https://github.com/Mitpatel11/Selenium_Automation_Framework)** — Java, Selenium WebDriver, TestNG, Jenkins
 Page Object / Base Page / Base Test architecture with explicit waits and retry analyzers to eliminate flaky tests; scheduled cross-browser runs via Jenkins.
 
-**Secure DevSecOps Pipeline for a Dockerized Nginx App** — AWS, Terraform, Docker, GitHub Actions
+**Secure DevSecOps Pipeline for a Dockerized Nginx App(https://github.com/Mitpatel11/Automated-Cloud-Deployment-with-Terraform-Ansible-and-Docker)** — AWS, Terraform, Docker, GitHub Actions
 Infrastructure as Code provisioning on AWS, containerized deployment, CI/CD via GitHub Actions.
 
 ---
