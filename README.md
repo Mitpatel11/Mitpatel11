@@ -53,7 +53,7 @@ Infrastructure as Code provisioning on AWS, containerized deployment, CI/CD via 
 
 ### 📄 Resume
 
-[📄 View my Resume]([resume.pdf](https://github.com/user-attachments/files/31246881/resume.pdf))
+[📄 View my Resume](https://github.com/user-attachments/files/31246881/resume.pdf)
 
 ---
 
